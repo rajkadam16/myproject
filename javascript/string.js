@@ -1,0 +1,18 @@
+let a = "rajkadam"
+let b = "priyanka kadam"
+console.log(a.toUpperCase())
+console.log(a.toLowerCase())
+console.log(a.length)
+console.log(a.indexOf(4))
+console.log(a.slice(2,7))
+console.log(a.replace("raj","ram"))
+console.log(a.concat("a","priyanka"))
+// console.log(a.toUpperCase())
+// console.log(a.toUpperCase())
+// console.log(a.toUpperCase())
+// console.log(a.toUpperCase())
+// console.log(a.toUpperCase())
+// console.log(a.toUpperCase())
+// console.log(a.toUpperCase())
+// console.log(a.toUpperCase())
+// console.log(a.toUpperCase())
