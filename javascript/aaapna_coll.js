@@ -44,10 +44,13 @@
 //    }
 // }
 // game using js
-let gusNum = 10;
-let num = prompt("guess the number")
+// let gusNum = 10;
 
-while (num != gusNum) {
-    num = prompt("wrong number")
-}
-console.log("congo u guess right num")
+// let num = prompt("guess the number")
+
+// while (num != gusNum) {
+//     num = prompt("wrong number")
+// }
+// console.log("congo u guess right num")
+
+
